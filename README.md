@@ -37,6 +37,12 @@ The project was developed according to the assignment guidelines and includes:
 
 ---
 
+## Tools & Collaboration
+* GitHub
+* Trello (https://trello.com/b/OtKgKylm/slow-run)
+* Figma
+* VS Code
+
 ## Development notes
 - The project uses a local database
 - PHP is used for server-side logic and database interaction
