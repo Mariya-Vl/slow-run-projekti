@@ -45,6 +45,31 @@ The project was developed according to the assignment guidelines and includes:
 
 ---
 
+## My Role and Contribution
+
+Role: **Full-stack Developer**
+
+I was responsible for a significant part of both backend and admin functionality, as well as deployment configuration and UI improvements.
+
+Key contributions include:
+- Created and configured the GitHub repository and project structure
+- Set up the local development environment and database (MySQL)
+- Implemented the News page (layout, styling, and responsive behavior)
+- Developed most of the admin panel functionality, including:
+  * adding new articles with image upload, validation, and automatic file naming
+  * managing user messages (view, filter unread, mark as read, delete)
+  * changing the homepage hero image with validation rules and preview
+- Implemented form validation and improved file upload logic
+- Configured Google Maps JavaScript API integration for the contact page
+- Implemented automatic deployment to the school server using GitHub Actions and FTP workflow
+- Created environment configuration files (.env, .gitignore, .htaccess, connection setup)
+- Applied UI and styling improvements across multiple pages
+- Prepared the final client instruction presentation for using the admin features
+
+The project was completed as part of a collaborative academic assignment.
+
+---
+
 ## Running the project locally
 This project requires a local PHP environment and a MySQL database.
 
