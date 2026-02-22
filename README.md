@@ -98,7 +98,19 @@ The project is intended for local development and is not deployed online.
 ![Contact](screenshots/yhteys.png)
 
 ### Mobile view
-![Mobile](screenshots/mobile.png)
+![Mobile](screenshots/mobile-version.jpg)
+
+### Admin main page
+![Admin staff](screenshots/admin-staff.jpg)
+
+### Admin: add new article
+![Add new article](screenshots/add-new-article.jpg)
+
+### Admin: read/delete letters
+![Read or delete letters](screenshots/read-letters.jpg)
+
+### Admin: change hero image
+![Change hero image](screenshots/change-hero-img.jpg)
 
 ---
 
